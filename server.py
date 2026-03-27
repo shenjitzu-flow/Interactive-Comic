@@ -1,1 +1,1 @@
-python3 -m http.server 8000
+The Daily Adventures of Mate
