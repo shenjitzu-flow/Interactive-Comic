@@ -1,0 +1,11 @@
+[
+  {
+    "day": "Monday",
+    "panels": [
+      {"id": 1, "image": "mon_1.jpg", "caption": "Earth time, 7:00 AM. I wake up from hyper-sleep. My 7-hour training mission at school begins."},
+      {"id": 2, "image": "mon_2.jpg", "caption": "By 4:00 PM, I dock at Home Base. I refuel with my crew (my family) for 1 hour and 15 minutes."},
+      {"id": 3, "image": "mon_3.jpg", "caption": "At 5:15 PM, the strict 'Focus Protocol' starts. I do my homework for exactly 1 hour until 6:15 PM."},
+      {"id": 4, "image": "mon_4.jpg", "caption": "Systems powering down. At 9:00 PM, I go to bed to recharge."}
+    ]
+  }
+]
